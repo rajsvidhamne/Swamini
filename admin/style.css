@@ -1,0 +1,14 @@
+<style>
+	body {
+		  color: black;
+		  background-image: url("images/banner12.jpg");
+		  background-position: center;
+		  background-repeat: no-repeat;
+		  background-size: cover;
+		
+	}
+	.table-img{
+		background-image: url("images/banner10.jpg");
+	}
+
+</style>
